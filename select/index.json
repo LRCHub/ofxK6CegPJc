@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "ヴィヴァーチェ",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2026-03-31T12:05:09.620026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヴィヴァーチェ!",
+      "artist": "北宇治カルテット",
+      "has_synced": true,
+      "path": "select/01_ヴィヴァーチェ!_北宇治カルテット.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヴィヴァーチェ!(TV size)",
+      "artist": "北宇治カルテット",
+      "has_synced": true,
+      "path": "select/02_ヴィヴァーチェ!(TV_size)_北宇治カルテット.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヴィヴァーチェ！",
+      "artist": "北宇治カルテット [黄前久美子 (CV.黒沢ともよ)、加藤葉月 (CV.朝井彩加)、川島緑輝 (CV.豊田萌絵)、高坂麗奈 (CV.安済知佳)]",
+      "has_synced": true,
+      "path": "select/03_ヴィヴァーチェ!_北宇治カルテット_[黄前久美子_(CV.黒沢ともよ)、加藤葉月_(CV.朝井彩加)、川島緑輝_(CV.豊田萌絵)、高坂麗奈_(CV.安済知佳)].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヴィヴァーチェ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/04_ヴィヴァーチェ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヴィヴァーチェ",
+      "artist": "Porno Graffitti",
+      "has_synced": false,
+      "path": "select/pl_01_ヴィヴァーチェ_Porno_Graffitti.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ヴィヴァーチェ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/localdb_01_ヴィヴァーチェ_ポルノグラフィティ.lrc",
+      "repo_name": "-KBVM-lnQGs"
+    }
+  ]
+}
